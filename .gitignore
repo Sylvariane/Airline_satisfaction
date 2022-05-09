@@ -3,3 +3,4 @@ submission_randomforest.csv
 submission_catboost.csv
 catboost_info
 submission_xgboost.csv
+submission_lightgbm.csv
